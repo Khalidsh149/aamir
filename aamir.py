@@ -281,7 +281,7 @@ Owner:     Khalid Baloch
 Facebook : Khalid Hussain
 Whatsapp : 923113892***
 Version:   0.2
-Status :   Free
+Status  :  Free
 ____________________________________________                                     
 """)
 #_________[ MODULES CLEAR]______>>
